@@ -22,8 +22,8 @@ module.exports = {
                 ['/BreezyStatementOfApology', '关于私自使用geekzwzs.cn域名前缀的道歉声明'],
             ]
         },
+	sidebarDepth : 2,
     },
-    //  sidebarDepth : 2,
     head: [
         [
             'link', // 设置 favicon.ico，注意图片放在 public 文件夹下
