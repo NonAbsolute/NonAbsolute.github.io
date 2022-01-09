@@ -51,9 +51,9 @@
 
 手机APP：
 
-<img src="./CreateTeamMailbox.assets/IMG_0467-1298143.png"/>
+<img src="./CreateTeamMailbox.assets/467.png"/>
 
-<img src="./CreateTeamMailbox.assets/IMG_0466.png"/>
+<img src="./CreateTeamMailbox.assets/466.png"/>
 
 ### 安全性
 
