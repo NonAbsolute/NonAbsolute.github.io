@@ -1,7 +1,7 @@
 module.exports = {
   title: 'FJD安全团队文档',  // 设置网站标题
   description:'安全运维，安全开发，漏洞挖掘，代码审计',
-  base: "/Doc",
+  base: "/Docs",
   themeConfig : {
     //nav : [
     //    { text: '新年祝福', link: '/NewYearGreetings' },
