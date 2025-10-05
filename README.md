@@ -1,7 +1,7 @@
 # NonAbsolute.github.io
 FJD安全团队文档
 
-[Docs.GeekZWZS.cn](https://docs.geekzwzs.cn)
+[non-absolute-github-io.vercel.app](https://non-absolute-github-io.vercel.app)
 
 ## 开始项目
 
