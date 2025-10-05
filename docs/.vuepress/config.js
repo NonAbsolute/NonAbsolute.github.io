@@ -20,6 +20,7 @@ module.exports = {
                 ['/CreateTeamMailbox', '创建团队邮箱'],
                 ['/CobwebAndFJD', '蛛网之殇与FJD的关系'],
                 ['/BreezyStatementOfApology', '关于私自使用geekzwzs.cn域名前缀的道歉声明'],
+				['/重要！因geekzwzs.cn域名到期，邮箱和相关子域已弃用', '重要！因geekzwzs.cn域名到期，邮箱和相关子域已弃用'],
             ]
         },
 	sidebarDepth : 2,
